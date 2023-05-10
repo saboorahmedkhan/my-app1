@@ -1,4 +1,4 @@
-import Nav from "../../../../component/navbar"
+import Nav from "../../../../component/navbar";
 
 const Product1 = ()=>{
     let d = "Product1 details"
